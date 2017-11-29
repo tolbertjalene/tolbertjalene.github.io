@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![Untitled](https://github.com/tolbertjalene/tolbertjalene.github.io/blob/master/untitled.png?raw=true "Optional Title")
+![untitled](picture filename?raw=true "Optional Title")
 
 
 ***
